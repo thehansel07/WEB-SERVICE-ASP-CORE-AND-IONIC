@@ -1,0 +1,20 @@
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\EstudianteApi.deps.json
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\EstudianteApi.runtimeconfig.json
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\EstudianteApi.runtimeconfig.dev.json
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\EstudianteApi.dll
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\EstudianteApi.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\Base de Datos.dll
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\Modelo.dll
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\Servicio.dll
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\Base de Datos.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\Servicio.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\api\bin\Release\netcoreapp2.0\Modelo.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\api\obj\Release\netcoreapp2.0\EstudianteApi.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\ApiNet.Core\api\obj\Release\netcoreapp2.0\EstudianteApi.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\ApiNet.Core\api\obj\Release\netcoreapp2.0\EstudianteApi.AssemblyInfo.cs
+C:\Users\MSI\Desktop\ApiNet.Core\api\obj\Release\netcoreapp2.0\EstudianteApi.csproj.CopyComplete
+C:\Users\MSI\Desktop\ApiNet.Core\api\obj\Release\netcoreapp2.0\EstudianteApi.dll
+C:\Users\MSI\Desktop\ApiNet.Core\api\obj\Release\netcoreapp2.0\EstudianteApi.pdb

@@ -1,0 +1,13 @@
+C:\Users\MSI\Desktop\ApiNet.Core\Service\bin\Debug\netcoreapp2.0\Servicio.deps.json
+C:\Users\MSI\Desktop\ApiNet.Core\Service\bin\Debug\netcoreapp2.0\Servicio.dll
+C:\Users\MSI\Desktop\ApiNet.Core\Service\bin\Debug\netcoreapp2.0\Servicio.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\Service\bin\Debug\netcoreapp2.0\Base de Datos.dll
+C:\Users\MSI\Desktop\ApiNet.Core\Service\bin\Debug\netcoreapp2.0\Base de Datos.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\Service\obj\Debug\netcoreapp2.0\Servicio.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\ApiNet.Core\Service\obj\Debug\netcoreapp2.0\Servicio.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\ApiNet.Core\Service\obj\Debug\netcoreapp2.0\Servicio.AssemblyInfo.cs
+C:\Users\MSI\Desktop\ApiNet.Core\Service\obj\Debug\netcoreapp2.0\Servicio.csproj.CopyComplete
+C:\Users\MSI\Desktop\ApiNet.Core\Service\obj\Debug\netcoreapp2.0\Servicio.dll
+C:\Users\MSI\Desktop\ApiNet.Core\Service\obj\Debug\netcoreapp2.0\Servicio.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\Service\bin\Debug\netcoreapp2.0\Modelo.dll
+C:\Users\MSI\Desktop\ApiNet.Core\Service\bin\Debug\netcoreapp2.0\Modelo.pdb

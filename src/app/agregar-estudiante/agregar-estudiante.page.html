@@ -1,0 +1,52 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+      
+    </ion-buttons>
+    <ion-title style="text-align: center;">Registrar Estudiante</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <form name="editForm" #editForm="ngForm" (ngSubmit)="GuardarEstudiantes()" novalidate>
+    <ion-list>
+      <ion-item>
+        <ion-label>Matricula:</ion-label>
+        <ion-input name="matricula" [(ngModel)]="estud.matricula" required></ion-input>
+
+
+      </ion-item>
+
+      <ion-item>
+        <ion-label>Nombre:</ion-label>
+        <ion-input name="nombre" [(ngModel)]="estud.nombre" required ></ion-input>
+
+
+      </ion-item>
+
+      <ion-item>
+        <ion-label>Apellido:</ion-label>
+        <ion-input name="descripcion" [(ngModel)]="estud.apellido" required ></ion-input>
+
+
+      </ion-item>
+
+
+      <ion-item>
+        <ion-label>Genero:</ion-label>
+        <ion-input name="genero" [(ngModel)]="estud.genero" required></ion-input>
+
+
+      </ion-item>
+     
+
+      </ion-list>
+
+      <ion-button color="success"  expand="full" [disabled]="editForm.form.invalid" (click)="GuardarEstudiantes()">Guardar Estudiante</ion-button>
+
+  
+    </form>
+
+</ion-content>
+

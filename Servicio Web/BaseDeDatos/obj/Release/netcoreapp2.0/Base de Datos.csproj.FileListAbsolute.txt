@@ -1,0 +1,11 @@
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\bin\Release\netcoreapp2.0\Base de Datos.deps.json
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\bin\Release\netcoreapp2.0\Base de Datos.dll
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\bin\Release\netcoreapp2.0\Base de Datos.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\bin\Release\netcoreapp2.0\Modelo.dll
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\bin\Release\netcoreapp2.0\Modelo.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\obj\Release\netcoreapp2.0\Base de Datos.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\obj\Release\netcoreapp2.0\Base de Datos.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\obj\Release\netcoreapp2.0\Base de Datos.AssemblyInfo.cs
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\obj\Release\netcoreapp2.0\Base de Datos.csproj.CopyComplete
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\obj\Release\netcoreapp2.0\Base de Datos.dll
+C:\Users\MSI\Desktop\ApiNet.Core\Persistence\obj\Release\netcoreapp2.0\Base de Datos.pdb

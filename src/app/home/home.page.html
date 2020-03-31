@@ -1,0 +1,77 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="primary">
+    
+    <ion-title style="text-align: center;">
+     Registro Estudiante ITLA
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding class="background">
+  <ion-refresher slot="fixed" (ionRefresh)="Refrescar($event)">
+
+  <ion-refresher-content 
+  pullingIcon="arrow-dropdown"
+  pullingText="Espere un momento..."
+  refreshingSpinner="circles"
+  refresgingText="Resfrescando...">
+  </ion-refresher-content>
+</ion-refresher>
+
+
+
+
+  <ion-list>
+    <ion-item>
+      <ion-label style="color: rgb(11, 74, 211);">~Estudiantes</ion-label>
+      <ion-icon slot="start" color="primary" name="person-add" [routerLink]="['/','agregar-estudiante']"></ion-icon>
+    </ion-item>
+    
+
+  </ion-list >
+
+
+
+   
+    <ion-row *ngFor="let Estudiantes of estudlist">
+  
+
+    <ion-col style="color:rgb(238, 255, 2);;" >Matricula  <p style="color:white;">{{Estudiantes.matricula}}</p></ion-col>
+    <ion-col  style="color:rgb(238, 255, 2);">Nombre  <p style="color: white;">{{Estudiantes.nombre}}</p></ion-col>
+    <ion-col  style="color:rgb(238, 255, 2);">Apellido <p style="color: white;">{{Estudiantes.apellido}}</p></ion-col>
+    <ion-col  style="color:rgb(238, 255, 2);">Sexo  <p style="color: white;">{{Estudiantes.genero}}</p></ion-col>
+    
+    
+    <ion-item>
+      <ion-icon slot="end" color="primary" name="create" [routerLink]="['/','agregar-estudiante',Estudiantes.matricula]"></ion-icon>
+
+      <ion-icon slot="end" color="danger" name="trash" (click)="BorrarEstudiante(Estudiantes.matricula)" ></ion-icon>
+    </ion-item>
+   
+   
+     
+
+
+
+  </ion-row>
+
+
+
+
+
+  
+
+
+
+    
+    
+
+
+
+
+
+  
+
+
+ 
+</ion-content>

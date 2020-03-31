@@ -1,0 +1,8 @@
+C:\Users\MSI\Desktop\ApiNet.Core\Model\bin\Debug\netcoreapp2.0\Modelo.deps.json
+C:\Users\MSI\Desktop\ApiNet.Core\Model\bin\Debug\netcoreapp2.0\Modelo.dll
+C:\Users\MSI\Desktop\ApiNet.Core\Model\bin\Debug\netcoreapp2.0\Modelo.pdb
+C:\Users\MSI\Desktop\ApiNet.Core\Model\obj\Debug\netcoreapp2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\ApiNet.Core\Model\obj\Debug\netcoreapp2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\ApiNet.Core\Model\obj\Debug\netcoreapp2.0\Modelo.AssemblyInfo.cs
+C:\Users\MSI\Desktop\ApiNet.Core\Model\obj\Debug\netcoreapp2.0\Modelo.dll
+C:\Users\MSI\Desktop\ApiNet.Core\Model\obj\Debug\netcoreapp2.0\Modelo.pdb
